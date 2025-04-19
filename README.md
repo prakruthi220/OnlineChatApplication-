@@ -1,10 +1,6 @@
 # OnlineChatApplication-
 A simple Java-based chat application using sockets and multithreading.
 
-# Online Chatting Application 💬
-
-This is a simple Java-based client-server chat application built using **Socket Programming** and **Swing GUI**.
-
 Structure
 - `Server.java`: Starts the server and listens for client connections
 - `Client.java`: Swing-based client interface
