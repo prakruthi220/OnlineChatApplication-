@@ -16,4 +16,4 @@ b.Client
 2. Run: `java Client`
 3. Enter the server IP when prompted
 
-> Note: Run the server before starting clients. Clients must connect to the server's IP on port `4444`.
+Note: Run the server before starting clients. Clients must connect to the server's IP on port `4444`.
